@@ -1,4 +1,4 @@
-# DES-Algorithm-implementation-
+# DES-Algorithm-implementation
 
 ## Description
 
